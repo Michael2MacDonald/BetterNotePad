@@ -60,8 +60,8 @@ public class Main {
         // TextArea.setWrapStyleWord(true);
 
         JScrollPane ScrollPane = new JScrollPane(TextArea);
-        // ScrollPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
-        // ScrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_ALWAYS);
+        // ScrollPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS); // Uncomment this if you want the vertical scroll bar to always be visible
+        // ScrollPane.setHorizontalScrollBarPolicy(JScrollPane.HORIZONTAL_SCROLLBAR_ALWAYS); // Uncomment this if you want the horizontal scroll bar to always be visible
 
         JToolBar ToolBar = new JToolBar();
         FlowLayout ToolBarLayout = new FlowLayout();
