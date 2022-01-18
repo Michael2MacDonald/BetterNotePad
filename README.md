@@ -1,5 +1,7 @@
 ## BetterNotePad
 
+https://github.com/Michael2MacDonald/BetterNotePad
+
 BetterNotePad is a text editor application built with java, java swing, and java AWT.
 
 This is a school project. It is not made to be a finished application but you can use it if you want. It does not have a license but you can treat it as open source.
